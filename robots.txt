@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://siexaquoh.t12t.se/sitemap.xml
